@@ -1,0 +1,11 @@
+pandas
+numpy
+nltk
+regex
+textblob
+tensorflow
+scikit-learn
+gensim
+stramlit
+string
+keras
