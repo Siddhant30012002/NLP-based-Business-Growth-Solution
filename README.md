@@ -32,7 +32,7 @@ to infer the medical category from the drug name, thus automating the categoriza
 ## Dataset
 The dataset consists of customer reviews and the associated medical condition labels. The data is preprocessed as follows:
 
-1. **Text preprocessing**: Removing stopwords, HTML tags, URLs, lemmatization, vectorization and more. (connect with me to get te code for preprocessing)
+1. **Text preprocessing**: Removing stopwords, HTML tags, URLs, lemmatization, vectorization and more. 
 2. **Drug name identification**: Recognizing the drug mentioned in reviews to infer the medical condition.
 
 
@@ -45,7 +45,7 @@ The dataset consists of customer reviews and the associated medical condition la
 
 ## How to Use
 1. Clone this repository.
-2. Preprocess the reviews(connect with me to get te code for preprocessing)
+2. Preprocess the reviews
 3. Train the model 
 4. Make predictions 
 5. Analyze business insights and trends from the categorized reviews.
